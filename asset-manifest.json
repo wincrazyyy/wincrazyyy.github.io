@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.07a1fe6c.css",
-    "main.js": "/static/js/main.f7f18636.js",
+    "main.css": "/static/css/main.8b0d285c.css",
+    "main.js": "/static/js/main.38fdd367.js",
     "static/js/787.b728d65e.chunk.js": "/static/js/787.b728d65e.chunk.js",
     "static/media/website-banner.png": "/static/media/website-banner.16e0b522afd57a6ce7ca.png",
     "static/media/carousel-2.png": "/static/media/carousel-2.68717d09f8042b5ab1dc.png",
     "static/media/carousel-3.png": "/static/media/carousel-3.6d5e6a4324d850227323.png",
-    "static/media/shelf-image.png": "/static/media/shelf-image.ea6d1df2daf152ee8ab7.png",
+    "static/media/shelf-image.png": "/static/media/shelf-image.6eb4d759a5c597695601.png",
+    "static/media/NanumMyeongjo-Regular.ttf": "/static/media/NanumMyeongjo-Regular.01893c39cd1a403ef0a5.ttf",
     "static/media/winson-icon-square.png": "/static/media/winson-icon-square.d08d62863a003a6c34db.png",
     "static/media/Lato-BoldItalic.ttf": "/static/media/Lato-BoldItalic.fd32b4dea61508c37b78.ttf",
     "static/media/Lato-Italic.ttf": "/static/media/Lato-Italic.a9f3ee269217f44df65f.ttf",
@@ -14,12 +15,12 @@
     "static/media/Lato-Bold.ttf": "/static/media/Lato-Bold.636be8de934918e38ed9.ttf",
     "static/media/winson-icon-round.png": "/static/media/winson-icon-round.fab449bdef9ce631af53.png",
     "index.html": "/index.html",
-    "main.07a1fe6c.css.map": "/static/css/main.07a1fe6c.css.map",
-    "main.f7f18636.js.map": "/static/js/main.f7f18636.js.map",
+    "main.8b0d285c.css.map": "/static/css/main.8b0d285c.css.map",
+    "main.38fdd367.js.map": "/static/js/main.38fdd367.js.map",
     "787.b728d65e.chunk.js.map": "/static/js/787.b728d65e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.07a1fe6c.css",
-    "static/js/main.f7f18636.js"
+    "static/css/main.8b0d285c.css",
+    "static/js/main.38fdd367.js"
   ]
 }
