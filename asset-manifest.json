@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2ff65dd6.css",
-    "main.js": "/static/js/main.94e34761.js",
+    "main.css": "/static/css/main.e25be9b2.css",
+    "main.js": "/static/js/main.1865bcf8.js",
     "static/js/787.b728d65e.chunk.js": "/static/js/787.b728d65e.chunk.js",
     "static/media/website-banner.png": "/static/media/website-banner.16e0b522afd57a6ce7ca.png",
     "static/media/shelf-image.png": "/static/media/shelf-image.69ae31490a4541a26e2c.png",
@@ -16,12 +16,12 @@
     "static/media/Lato-Bold.ttf": "/static/media/Lato-Bold.636be8de934918e38ed9.ttf",
     "static/media/winson-icon-round-nobkg.png": "/static/media/winson-icon-round-nobkg.a8e43e99437b79f31466.png",
     "index.html": "/index.html",
-    "main.2ff65dd6.css.map": "/static/css/main.2ff65dd6.css.map",
-    "main.94e34761.js.map": "/static/js/main.94e34761.js.map",
+    "main.e25be9b2.css.map": "/static/css/main.e25be9b2.css.map",
+    "main.1865bcf8.js.map": "/static/js/main.1865bcf8.js.map",
     "787.b728d65e.chunk.js.map": "/static/js/787.b728d65e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ff65dd6.css",
-    "static/js/main.94e34761.js"
+    "static/css/main.e25be9b2.css",
+    "static/js/main.1865bcf8.js"
   ]
 }
