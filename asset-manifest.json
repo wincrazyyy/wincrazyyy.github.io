@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.826d7975.css",
-    "main.js": "/static/js/main.b18a5dba.js",
+    "main.css": "/static/css/main.df63202d.css",
+    "main.js": "/static/js/main.6b8ef87f.js",
     "static/js/787.b728d65e.chunk.js": "/static/js/787.b728d65e.chunk.js",
     "static/media/website-banner.png": "/static/media/website-banner.16e0b522afd57a6ce7ca.png",
     "static/media/carousel-1.png": "/static/media/carousel-1.bdd1e77722ea45cbe248.png",
     "static/media/shelf-image.png": "/static/media/shelf-image.69ae31490a4541a26e2c.png",
     "static/media/carousel-2.png": "/static/media/carousel-2.1366c42142435e73fb25.png",
     "static/media/carousel-3.png": "/static/media/carousel-3.d8370afcc33b53d7f621.png",
-    "static/media/winson-icon-large-nobkg.png": "/static/media/winson-icon-large-nobkg.f8e31e12a533c1c30a5c.png",
+    "static/media/winson-icon-large-nobkg.png": "/static/media/winson-icon-large-nobkg.6efafbc99895a39a8211.png",
     "static/media/NanumMyeongjo-Regular.ttf": "/static/media/NanumMyeongjo-Regular.01893c39cd1a403ef0a5.ttf",
     "static/media/Lato-BoldItalic.ttf": "/static/media/Lato-BoldItalic.fd32b4dea61508c37b78.ttf",
     "static/media/Lato-Italic.ttf": "/static/media/Lato-Italic.a9f3ee269217f44df65f.ttf",
@@ -16,12 +16,12 @@
     "static/media/Lato-Bold.ttf": "/static/media/Lato-Bold.636be8de934918e38ed9.ttf",
     "static/media/winson-icon-round-nobkg.png": "/static/media/winson-icon-round-nobkg.a8e43e99437b79f31466.png",
     "index.html": "/index.html",
-    "main.826d7975.css.map": "/static/css/main.826d7975.css.map",
-    "main.b18a5dba.js.map": "/static/js/main.b18a5dba.js.map",
+    "main.df63202d.css.map": "/static/css/main.df63202d.css.map",
+    "main.6b8ef87f.js.map": "/static/js/main.6b8ef87f.js.map",
     "787.b728d65e.chunk.js.map": "/static/js/787.b728d65e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.826d7975.css",
-    "static/js/main.b18a5dba.js"
+    "static/css/main.df63202d.css",
+    "static/js/main.6b8ef87f.js"
   ]
 }
