@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.7f6253e8.css",
-    "main.js": "/static/js/main.ec76d3df.js",
+    "main.css": "/static/css/main.365f7f28.css",
+    "main.js": "/static/js/main.af768fda.js",
     "static/js/787.df18d953.chunk.js": "/static/js/787.df18d953.chunk.js",
     "static/media/website-banner.png": "/static/media/website-banner.16e0b522afd57a6ce7ca.png",
     "static/media/carousel-1.png": "/static/media/carousel-1.bdd1e77722ea45cbe248.png",
@@ -10,18 +10,19 @@
     "static/media/winson-icon-large-nobkg.png": "/static/media/winson-icon-large-nobkg.6efafbc99895a39a8211.png",
     "static/media/NanumMyeongjo-Regular.ttf": "/static/media/NanumMyeongjo-Regular.01893c39cd1a403ef0a5.ttf",
     "static/media/shelf-image.png": "/static/media/shelf-image.fe25a2707ba4866ea323.png",
+    "static/media/book_now.png": "/static/media/book_now.3fb960ff4d787308da4a.png",
     "static/media/Lato-BoldItalic.ttf": "/static/media/Lato-BoldItalic.fd32b4dea61508c37b78.ttf",
     "static/media/Lato-Italic.ttf": "/static/media/Lato-Italic.a9f3ee269217f44df65f.ttf",
     "static/media/Lato-Regular.ttf": "/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
     "static/media/Lato-Bold.ttf": "/static/media/Lato-Bold.636be8de934918e38ed9.ttf",
     "static/media/winson-icon-round-nobkg.png": "/static/media/winson-icon-round-nobkg.a8e43e99437b79f31466.png",
     "index.html": "/index.html",
-    "main.7f6253e8.css.map": "/static/css/main.7f6253e8.css.map",
-    "main.ec76d3df.js.map": "/static/js/main.ec76d3df.js.map",
+    "main.365f7f28.css.map": "/static/css/main.365f7f28.css.map",
+    "main.af768fda.js.map": "/static/js/main.af768fda.js.map",
     "787.df18d953.chunk.js.map": "/static/js/787.df18d953.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f6253e8.css",
-    "static/js/main.ec76d3df.js"
+    "static/css/main.365f7f28.css",
+    "static/js/main.af768fda.js"
   ]
 }
