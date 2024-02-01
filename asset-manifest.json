@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.3ed2ad8e.css",
-    "main.js": "/static/js/main.90608fc3.js",
+    "main.css": "/static/css/main.46855fcf.css",
+    "main.js": "/static/js/main.0348de39.js",
     "static/js/787.df18d953.chunk.js": "/static/js/787.df18d953.chunk.js",
     "static/media/Winson_Website_Banner.png": "/static/media/Winson_Website_Banner.e543d013053855937bd2.png",
     "static/media/carousel-2.png": "/static/media/carousel-2.b90f49ef6b44b361a93a.png",
     "static/media/carousel-1.png": "/static/media/carousel-1.e2746a696542f1359811.png",
+    "static/media/Winson_Website_Banner_Compressed.png": "/static/media/Winson_Website_Banner_Compressed.02cb18893b6c4b1fe81c.png",
     "static/media/carousel-3.png": "/static/media/carousel-3.140decfe3b0769b1e4de.png",
     "static/media/NanumMyeongjo-Regular.ttf": "/static/media/NanumMyeongjo-Regular.01893c39cd1a403ef0a5.ttf",
     "static/media/student_illustration.png": "/static/media/student_illustration.87d1143bfee1367006ff.png",
@@ -16,12 +17,12 @@
     "static/media/Lato-Regular.ttf": "/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
     "static/media/Lato-Bold.ttf": "/static/media/Lato-Bold.636be8de934918e38ed9.ttf",
     "index.html": "/index.html",
-    "main.3ed2ad8e.css.map": "/static/css/main.3ed2ad8e.css.map",
-    "main.90608fc3.js.map": "/static/js/main.90608fc3.js.map",
+    "main.46855fcf.css.map": "/static/css/main.46855fcf.css.map",
+    "main.0348de39.js.map": "/static/js/main.0348de39.js.map",
     "787.df18d953.chunk.js.map": "/static/js/787.df18d953.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ed2ad8e.css",
-    "static/js/main.90608fc3.js"
+    "static/css/main.46855fcf.css",
+    "static/js/main.0348de39.js"
   ]
 }
