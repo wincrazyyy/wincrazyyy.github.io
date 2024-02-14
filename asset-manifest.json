@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/static/css/main.95c77a82.css",
-    "main.js": "/static/js/main.8b391ecd.js",
+    "main.js": "/static/js/main.9af49bee.js",
     "static/js/787.df18d953.chunk.js": "/static/js/787.df18d953.chunk.js",
     "static/media/Winson_Website_Banner.png": "/static/media/Winson_Website_Banner.e543d013053855937bd2.png",
-    "static/media/carousel-2.png": "/static/media/carousel-2.b90f49ef6b44b361a93a.png",
-    "static/media/carousel-1.png": "/static/media/carousel-1.e2746a696542f1359811.png",
-    "static/media/carousel-3.png": "/static/media/carousel-3.140decfe3b0769b1e4de.png",
-    "static/media/Winson_Website_Banner_Compressed_2.png": "/static/media/Winson_Website_Banner_Compressed_2.5c951df8d4a9571580c4.png",
     "static/media/NanumMyeongjo-Regular.ttf": "/static/media/NanumMyeongjo-Regular.01893c39cd1a403ef0a5.ttf",
-    "static/media/student_illustration.png": "/static/media/student_illustration.87d1143bfee1367006ff.png",
     "static/media/logo_transparent.png": "/static/media/logo_transparent.6754cda6660ca1338962.png",
-    "static/media/Book_Now.png": "/static/media/Book_Now.37daaa1566ae79e06431.png",
+    "static/media/Winson_Website_Banner_Compressed_2.png": "/static/media/Winson_Website_Banner_Compressed_2.643768c60e7f58190650.png",
+    "static/media/carousel-2-compressed.png": "/static/media/carousel-2-compressed.64ebf19ea8b544e6f6a3.png",
+    "static/media/carousel-1-compressed.png": "/static/media/carousel-1-compressed.d76534a1de6d1050111b.png",
+    "static/media/student_illustration_compressed.png": "/static/media/student_illustration_compressed.0453d21d02bb4ac6c824.png",
+    "static/media/carousel-3-compressed.png": "/static/media/carousel-3-compressed.5410fca0867a9f2c222a.png",
     "static/media/Lato-BoldItalic.ttf": "/static/media/Lato-BoldItalic.fd32b4dea61508c37b78.ttf",
     "static/media/Lato-Italic.ttf": "/static/media/Lato-Italic.a9f3ee269217f44df65f.ttf",
     "static/media/Lato-Regular.ttf": "/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
     "static/media/Lato-Bold.ttf": "/static/media/Lato-Bold.636be8de934918e38ed9.ttf",
+    "static/media/Book_Now_Compressed.png": "/static/media/Book_Now_Compressed.07e7a576b8687f4695b6.png",
     "index.html": "/index.html",
     "main.95c77a82.css.map": "/static/css/main.95c77a82.css.map",
-    "main.8b391ecd.js.map": "/static/js/main.8b391ecd.js.map",
+    "main.9af49bee.js.map": "/static/js/main.9af49bee.js.map",
     "787.df18d953.chunk.js.map": "/static/js/787.df18d953.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.95c77a82.css",
-    "static/js/main.8b391ecd.js"
+    "static/js/main.9af49bee.js"
   ]
 }
