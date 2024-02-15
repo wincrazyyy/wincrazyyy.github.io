@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.90cc9e21.css",
-    "main.js": "/static/js/main.7385b5b5.js",
+    "main.css": "/static/css/main.c3f54ca0.css",
+    "main.js": "/static/js/main.061b6070.js",
     "static/js/787.df18d953.chunk.js": "/static/js/787.df18d953.chunk.js",
     "static/media/NanumMyeongjo-Regular.ttf": "/static/media/NanumMyeongjo-Regular.01893c39cd1a403ef0a5.ttf",
-    "static/media/logo_transparent_no_outline.png": "/static/media/logo_transparent_no_outline.3dab91215274488c93e7.png",
+    "static/media/logo_transparent.png": "/static/media/logo_transparent.ce4a5fc68ca6fe6e487d.png",
     "static/media/Winson_Website_Banner_Compressed_2.png": "/static/media/Winson_Website_Banner_Compressed_2.643768c60e7f58190650.png",
     "static/media/carousel-2-compressed.png": "/static/media/carousel-2-compressed.64ebf19ea8b544e6f6a3.png",
     "static/media/carousel-1-compressed.png": "/static/media/carousel-1-compressed.d76534a1de6d1050111b.png",
@@ -18,12 +18,12 @@
     "static/media/logo_transparent_256.png": "/static/media/logo_transparent_256.4775d708b4d9e27e5a3f.png",
     "static/media/Book_Now_Compressed.png": "/static/media/Book_Now_Compressed.07e7a576b8687f4695b6.png",
     "index.html": "/index.html",
-    "main.90cc9e21.css.map": "/static/css/main.90cc9e21.css.map",
-    "main.7385b5b5.js.map": "/static/js/main.7385b5b5.js.map",
+    "main.c3f54ca0.css.map": "/static/css/main.c3f54ca0.css.map",
+    "main.061b6070.js.map": "/static/js/main.061b6070.js.map",
     "787.df18d953.chunk.js.map": "/static/js/787.df18d953.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.90cc9e21.css",
-    "static/js/main.7385b5b5.js"
+    "static/css/main.c3f54ca0.css",
+    "static/js/main.061b6070.js"
   ]
 }
